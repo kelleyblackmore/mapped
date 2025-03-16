@@ -1,0 +1,10 @@
+.git
+build
+.github
+.vscode
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
